@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "917371b71035dca77f28e110fce9ffa1605297a5c6a0a78f0157ec977828f850"
+build_start_time: [1663562221, 124249935]
+build_end_time: [1663562227, 322318077]
+inputs:
+  "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/CaseStudy1/AppDelegate.swift": [1662537148, 0]
+  "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/CaseStudy1/EmployeeViewController.swift": [1661849096, 0]
+  "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/CaseStudy1/ForgotPasswordViewController.swift": [1663154412, 0]
+  "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/CaseStudy1/LoginViewController.swift": [1663561520, 465410947]
+  "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/CaseStudy1/MapViewController.swift": [1662534691, 0]
+  "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/CaseStudy1/NetworkCallViewController.swift": [1662122403, 0]
+  "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/CaseStudy1/OfflineJsonViewController.swift": [1663305283, 0]
+  "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/CaseStudy1/RowSelectedViewController.swift": [1661859192, 0]
+  "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/CaseStudy1/SceneDelegate.swift": [1662537070, 0]
+  "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/CaseStudy1/SignUpViewController.swift": [1662536197, 0]
+  ? "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/build/CaseStudy1.build/Release-iphoneos/CaseStudy1.build/DerivedSources/CoreDataGenerated/CaseStudy1/CaseStudy1+CoreDataModel.swift"
+  : [1663562220, 965857028]
+  ? "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/build/CaseStudy1.build/Release-iphoneos/CaseStudy1.build/DerivedSources/CoreDataGenerated/CaseStudy1/EmployeeData+CoreDataClass.swift"
+  : [1663562220, 972927808]
+  ? "/Users/manjujain/Downloads/CaseStudy1 2/CaseStudy1/build/CaseStudy1.build/Release-iphoneos/CaseStudy1.build/DerivedSources/CoreDataGenerated/CaseStudy1/EmployeeData+CoreDataProperties.swift"
+  : [1663562220, 983172655]

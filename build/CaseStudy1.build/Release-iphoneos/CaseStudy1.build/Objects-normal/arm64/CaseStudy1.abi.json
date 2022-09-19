@@ -1,0 +1,809 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "MapKit",
+      "printedName": "MapKit",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1"
+    },
+    {
+      "kind": "Import",
+      "name": "CoreLocation",
+      "printedName": "CoreLocation",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UserNotifications",
+      "printedName": "UserNotifications",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "CoreData",
+      "printedName": "CoreData",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1"
+    },
+    {
+      "kind": "Import",
+      "name": "Security",
+      "printedName": "Security",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "CoreData",
+      "printedName": "CoreData",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "CoreData",
+      "printedName": "CoreData",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "CoreData",
+      "printedName": "CoreData",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "CoreData",
+      "printedName": "CoreData",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "EmployeeData",
+      "printedName": "EmployeeData",
+      "children": [
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(entity:insertInto:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EmployeeData",
+              "printedName": "CaseStudy1.EmployeeData",
+              "usr": "c:@M@CaseStudy1@objc(cs)EmployeeData"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSEntityDescription",
+              "printedName": "CoreData.NSEntityDescription",
+              "usr": "c:objc(cs)NSEntityDescription"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "CoreData.NSManagedObjectContext?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "NSManagedObjectContext",
+                  "printedName": "CoreData.NSManagedObjectContext",
+                  "usr": "c:objc(cs)NSManagedObjectContext"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@CaseStudy1@objc(cs)EmployeeData(im)initWithEntity:insertIntoManagedObjectContext:",
+          "mangledName": "$s10CaseStudy112EmployeeDataC6entity10insertIntoACSo19NSEntityDescriptionC_So22NSManagedObjectContextCSgtcfc",
+          "moduleName": "CaseStudy1",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithEntity:insertIntoManagedObjectContext:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "fetchRequest",
+          "printedName": "fetchRequest()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NSFetchRequest",
+              "printedName": "CoreData.NSFetchRequest<CaseStudy1.EmployeeData>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "EmployeeData",
+                  "printedName": "CaseStudy1.EmployeeData",
+                  "usr": "c:@M@CaseStudy1@objc(cs)EmployeeData"
+                }
+              ],
+              "usr": "c:objc(cs)NSFetchRequest"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:10CaseStudy112EmployeeDataC12fetchRequestSo07NSFetchF0CyACGyFZ",
+          "mangledName": "$s10CaseStudy112EmployeeDataC12fetchRequestSo07NSFetchF0CyACGyFZ",
+          "moduleName": "CaseStudy1",
+          "static": true,
+          "declAttributes": [
+            "AccessControl",
+            "NonObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Var",
+          "name": "emailid",
+          "printedName": "emailid",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(py)emailid",
+          "mangledName": "$s10CaseStudy112EmployeeDataC7emailidSSSgvp",
+          "moduleName": "CaseStudy1",
+          "declAttributes": [
+            "Dynamic",
+            "AccessControl",
+            "NSManaged",
+            "ObjC"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Swift.String?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(im)emailid",
+              "mangledName": "$s10CaseStudy112EmployeeDataC7emailidSSSgvg",
+              "moduleName": "CaseStudy1",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic",
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Swift.String?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(im)setEmailid:",
+              "mangledName": "$s10CaseStudy112EmployeeDataC7emailidSSSgvs",
+              "moduleName": "CaseStudy1",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic",
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "name",
+          "printedName": "name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(py)name",
+          "mangledName": "$s10CaseStudy112EmployeeDataC4nameSSSgvp",
+          "moduleName": "CaseStudy1",
+          "declAttributes": [
+            "Dynamic",
+            "AccessControl",
+            "NSManaged",
+            "ObjC"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Swift.String?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(im)name",
+              "mangledName": "$s10CaseStudy112EmployeeDataC4nameSSSgvg",
+              "moduleName": "CaseStudy1",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic",
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Swift.String?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(im)setName:",
+              "mangledName": "$s10CaseStudy112EmployeeDataC4nameSSSgvs",
+              "moduleName": "CaseStudy1",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic",
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "password",
+          "printedName": "password",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(py)password",
+          "mangledName": "$s10CaseStudy112EmployeeDataC8passwordSSSgvp",
+          "moduleName": "CaseStudy1",
+          "declAttributes": [
+            "Dynamic",
+            "AccessControl",
+            "NSManaged",
+            "ObjC"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Swift.String?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(im)password",
+              "mangledName": "$s10CaseStudy112EmployeeDataC8passwordSSSgvg",
+              "moduleName": "CaseStudy1",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic",
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Swift.String?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(im)setPassword:",
+              "mangledName": "$s10CaseStudy112EmployeeDataC8passwordSSSgvs",
+              "moduleName": "CaseStudy1",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic",
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "phonenumber",
+          "printedName": "phonenumber",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(py)phonenumber",
+          "mangledName": "$s10CaseStudy112EmployeeDataC11phonenumberSSSgvp",
+          "moduleName": "CaseStudy1",
+          "declAttributes": [
+            "Dynamic",
+            "AccessControl",
+            "NSManaged",
+            "ObjC"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Swift.String?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(im)phonenumber",
+              "mangledName": "$s10CaseStudy112EmployeeDataC11phonenumberSSSgvg",
+              "moduleName": "CaseStudy1",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic",
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Swift.String?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@CM@CaseStudy1@objc(cs)EmployeeData(im)setPhonenumber:",
+              "mangledName": "$s10CaseStudy112EmployeeDataC11phonenumberSSSgvs",
+              "moduleName": "CaseStudy1",
+              "implicit": true,
+              "declAttributes": [
+                "Dynamic",
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            }
+          ]
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@CaseStudy1@objc(cs)EmployeeData",
+      "mangledName": "$s10CaseStudy112EmployeeDataC",
+      "moduleName": "CaseStudy1",
+      "objc_name": "EmployeeData",
+      "declAttributes": [
+        "AccessControl",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)NSManagedObject",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "CoreData.NSManagedObject",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Identifiable",
+          "printedName": "Identifiable",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "ID",
+              "printedName": "ID",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ObjectIdentifier",
+                  "printedName": "Swift.ObjectIdentifier",
+                  "usr": "s:SO"
+                }
+              ]
+            }
+          ],
+          "usr": "s:s12IdentifiableP",
+          "mangledName": "$ss12IdentifiableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "ObservableObject",
+          "printedName": "ObservableObject",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "ObjectWillChangePublisher",
+              "printedName": "ObjectWillChangePublisher",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ObservableObjectPublisher",
+                  "printedName": "Combine.ObservableObjectPublisher",
+                  "usr": "s:7Combine25ObservableObjectPublisherC"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7Combine16ObservableObjectP",
+          "mangledName": "$s7Combine16ObservableObjectP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "CoreData",
+      "printedName": "CoreData",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "CoreData",
+      "printedName": "CoreData",
+      "declKind": "Import",
+      "moduleName": "CaseStudy1"
+    }
+  ],
+  "json_format_version": 6
+}
